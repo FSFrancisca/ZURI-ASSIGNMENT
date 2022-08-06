@@ -151,7 +151,7 @@ a{
     text-align: center;
     position: absolute;
     left: 45%;
-    top: 73%;
+    top: 80%;
 
 }
 
@@ -170,7 +170,7 @@ a{
     height: 10%;
     position: absolute;
     left: 54%;
-    top: 48%;
+    top: 58%;
 }
 
 
@@ -185,6 +185,7 @@ a{
 .imgs{
     display: flex;
     justify-content: space-between;
+
 }
 
 .image3{
@@ -199,8 +200,8 @@ a{
     width: 15%;
     height: 15%;
     position: absolute;
-    top: 77%;
-    left: 48%;
+    top: 82%;
+    left: 49%;
 }
 
 .hr{
@@ -473,7 +474,7 @@ a{
 .we-give{
     position: absolute;
     left: 20%;
-    top: 40%;
+    top: 45%;
     font-weight: 500;
 }
 
@@ -485,7 +486,7 @@ a{
     text-align: center;
     position: absolute;
     left: 20%;
-    top: 63%;
+    top: 73%;
 
 }
 
@@ -566,7 +567,7 @@ a{
     width: 15%;
     height: 15%;
     position: absolute;
-    top: 600%;
+    top: 605%;
     left: 17%;
 }
 
@@ -646,7 +647,7 @@ a{
 .sgq{
     text-align: center;
     position: absolute;
-    left: 34%;
+    left: 47.5%;
     top: 720%;
 }
 
@@ -659,7 +660,7 @@ a{
     text-align: center;
     position: absolute;
     left: 45%;
-    top: 720%;
+    top: 730%;
     padding: 10px;
 
 }
@@ -677,7 +678,7 @@ a{
     width: 15%;
     height: 15%;
     position: absolute;
-    top: 755%;
+    top: 758%;
     left: 14%;
 }
 
